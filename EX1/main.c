@@ -2,7 +2,7 @@
 
 int main()
 {
-        int n=7, i=0, j=0;
+        int n=6, i=0, j=0;
         char c=' ';
         for(i=1; i<=n; i++){
             printf("%*c", n-i+1, ' ');
